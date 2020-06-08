@@ -1,0 +1,23 @@
+{
+  "name": "online-correlation",
+  "version": "0.0.1",
+  "description": "Online correlation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "correlation",
+    "statistics",
+    "online-algorithms"
+  ],
+  "author": "Anton Zemlyansky",
+  "license": "MIT",
+  "dependencies": {
+    "online-covariance": "^1.0.2",
+    "online-std": "^1.0.2"
+  },
+  "devDependencies": {
+    "tape": "^5.0.1"
+  }
+}
